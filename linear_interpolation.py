@@ -4,5 +4,11 @@
 #
 # Name:         Andres Gonzalez
 # Section:      509
-# Assignment:   THE ASSIGNMENT NUMBER (e.g. Lab 1b-2)
-# Date:         DAY MONTH YEAR
+# Assignment:   Lab Topic 2
+# Date:         09-02-2022
+
+time1 = 10
+time2 = 55
+pos1 = 2026
+pos2 = 23026
+
