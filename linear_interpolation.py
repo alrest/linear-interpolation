@@ -5,9 +5,11 @@ from math import *
 #
 # Name:         Andres Gonzalez
 # Name:         Patrick Shen
+# Name:         Nick Almeter
+# Name:         Jacob Williams
 # Section:      509
-# Assignment:   THE ASSIGNMENT NUMBER (e.g. Lab 1b-2)
-# Date:         DAY MONTH YEAR
+# Assignment:   LAB: Linear Interpolation
+# Date:         09-09-2022
 
 # PART 1
 
