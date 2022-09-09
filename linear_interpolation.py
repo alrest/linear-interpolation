@@ -9,6 +9,8 @@ from math import *
 # Assignment:   THE ASSIGNMENT NUMBER (e.g. Lab 1b-2)
 # Date:         DAY MONTH YEAR
 
+# PART 1
+
 # coordinates
 x1 = 10
 y1 = 2026
@@ -22,4 +24,12 @@ m = (y2-y1)/(x2-x1)
 
 t = 25
 dist = m * (t-x1) + y1
-print("The distance of the ISS from Houston at time", t, "is", dist)
+print("For t =", t, "minutes, the position p =", dist, "kilometers")
+
+# PART 2
+
+t = 300
+r = 6745
+c = 2 * pi * r
+dist = (m * (t-x1) + y1) % c
+print("For t =", t, "minutes, the position p =", dist, "kilometers")
