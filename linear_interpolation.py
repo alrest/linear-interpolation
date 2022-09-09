@@ -31,5 +31,5 @@ t = 300
 r = 6745
 c = 2 * pi * r
 dist = (m * (t-x1) + y1) % c
-print("Part 2")
+print("Part 2:")
 print("For t =", t, "minutes, the position p =", dist, "kilometers")
